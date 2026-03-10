@@ -25,6 +25,11 @@ Released: 2026-03-10
 - `EksoVPN-1.0.0-x86_64.apk`
 - `EksoVPN-1.0.0-x86.apk`
 
+## macOS
+
+- `ekso-vpn-darwin-amd64` — Desktop GUI client, Intel (Go + Svelte)
+- `ekso-vpn-darwin-arm64` — Desktop GUI client, Apple Silicon (Go + Svelte)
+
 ## Windows
 
 - `ekso-vpn-windows-amd64.exe` — Desktop GUI client (Wails + Svelte)

@@ -14,3 +14,5 @@ c332a941e1ced7fb11d8ea9dc37c7ab0c43ea6e27d5264bddbe72ddf673ac405  ./android/Ekso
 c381f6c5c60fb681023127ff3c49f65ed73d6f21ae2c74d5d30817c4a720ac93  ./cli/ekso-linux-arm64
 c9e5cc464f5e973499d52ad7a4aa5042283639b6a93075ad7c9fddbc63bfcac5  ./android/EksoVPN-1.0.0-legacy-android-5-universal.apk
 58f5dc28a64e54e048d4b8e531fb0bf1a9bee58afd2def5a4b6aa043c899a1b1  ./windows/ekso-vpn-windows-amd64.exe
+76bb9757580ca74819245825159b583fd94fec5ca7335cd015b4a75015dc54d0  ./macos/ekso-vpn-darwin-amd64
+519eafc47c198785663e99b66520597df17c5c8677d6da293bd60a7fcb9b977c  ./macos/ekso-vpn-darwin-arm64
