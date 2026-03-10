@@ -25,6 +25,10 @@ Released: 2026-03-10
 - `EksoVPN-1.0.0-x86_64.apk`
 - `EksoVPN-1.0.0-x86.apk`
 
+## Windows
+
+- `ekso-vpn-windows-amd64.exe` — Desktop GUI client (Wails + Svelte)
+
 ## Checksums
 
 See `SHA256SUMS` for file integrity verification.
